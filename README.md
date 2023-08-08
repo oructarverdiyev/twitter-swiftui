@@ -1,4 +1,3 @@
-![app_profile_2](https://github.com/oructarverdiyev/twitter-swiftui/assets/71144561/587fbf79-c591-4810-96d3-4e58da419f72)# Twitter
 Twitter clone in SwiftUI with MVVM, 
 Firebase for Login/Register and other database.
 
