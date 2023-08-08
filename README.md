@@ -20,4 +20,4 @@ Firebase for Login/Register and other database.
 
 ## Screens
 
-<img src="/Screens/app_launch.png" alt="" width="256" height="554" hspace="10"/> <img src="/Screens/app_login.png" alt="" width="256" height="554" hspace="10"/>
+<img src="/Screens/app_launch.png" alt="" width="256" height="554" hspace="10"/> <img src="/Screens/app_login.png" alt="" width="256" height="554" hspace="10"/> <img src="/Screens/app_registration.png" alt="" width="256" height="554" hspace="10"/> <img src="/Screens/app_profile_image.png" alt="" width="256" height="554" hspace="10"/> <img src="/Screens/app_profile_image_selection.png" alt="" width="256" height="554" hspace="10"/>
