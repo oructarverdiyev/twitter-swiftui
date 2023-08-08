@@ -59,6 +59,7 @@ extension RegistrationView {
       
       CTextField(imageName: "lock",
                  placeholderText: "Password",
+                 isSecureField: true,
                  text: $password)
     }
     .padding(32)
