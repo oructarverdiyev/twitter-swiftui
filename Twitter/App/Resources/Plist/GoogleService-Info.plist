@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>994902182128-fpi2gnv885rp746pv33d3bfbs62tpt75.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.994902182128-fpi2gnv885rp746pv33d3bfbs62tpt75</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBq71sBIvBPJkBmWdxu1FpyKnNXGpM2b2g</string>
+	<key>GCM_SENDER_ID</key>
+	<string>994902182128</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.oructarverdiyev.twitter</string>
+	<key>PROJECT_ID</key>
+	<string>twitter-99ea0</string>
+	<key>STORAGE_BUCKET</key>
+	<string>twitter-99ea0.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:994902182128:ios:7570855d03ef8986145a35</string>
+</dict>
+</plist>
