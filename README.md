@@ -17,3 +17,5 @@ Firebase for Login/Register and other database.
 - Fetch bookmarks
 - Fetch all register users
 - Logout
+
+<img src="/Screens/app_launch.png" alt="" width="256" height="554" hspace="10"/>
